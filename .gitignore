@@ -1,0 +1,25 @@
+# Binaries
+flist
+*.exe
+*.out
+*.bin
+
+# Build artifacts
+/dist
+/build
+*.test
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Dependency cache (jika pake tool lain)
+vendor/
